@@ -1,0 +1,37 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+    font-family: 'Montserrat', sans-serif;
+}
+
+
+
+.flex-container{
+    display: flex;
+    justify-content:space-around;
+}
+
+.ikon {
+    height: 36px;
+    width: 36px;
+}
+.logo-header{
+    height: 36px;
+    width: 36px;
+}
+.flex-item{
+
+}
+
+.ikon-history{
+    height: 15px;
+    width: 15px;
+}
+
+.mt-4{
+    display: flex;
+    flex-direction: column;
+}
